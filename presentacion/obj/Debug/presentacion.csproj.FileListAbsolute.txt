@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\presentacion.exe
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\presentacion.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.frmApp.resources
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.exe
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\dominio.dll
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\dominio.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\negocio.dll
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\bin\Debug\negocio.pdb
+C:\Users\Usuario\Desktop\TPFinalNivel2_Scornavacca\presentacion\obj\Debug\presentacion.frmAltaArticulo.resources
